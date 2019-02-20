@@ -7,17 +7,15 @@ Want to add yourself to the list? Email me or (preferably) submit a PR!
 
 Follow this format for each company, or adapt as you like!
 
-
-
-## Startups
-
-# Consultancies/Agencies
-
 | *Website* |  |
 | -------------- | ---------- |
+| *Jobs* | |
 | *Location* |  |
 | Description | |
 | Known Contacts | |
+
+
+# Consultancies/Agencies
 
 ## No Moss
 
@@ -25,8 +23,38 @@ Follow this format for each company, or adapt as you like!
 | -------------- | ---------- |
 | *Jobs* | https://www.work180.com.au/clients/no-moss |
 | *Location* |  Foveaux Street, Surry Hills |
-| Description | Our purpose is our people's purpose. We'll help you meet yours. <br/>Consultancy offering tech delivery, agile consulting, games production.  |
+| Description | Our purpose is our people's purpose. We'll help you meet yours. <br/>Consultancy offering tech delivery, agile consulting, games production. |
 | Known Contacts | Steven Ma (founder), James O'Toole (founder) |
+
+# Startups
+
+## HireUp
+
+| *Website* | https://hireup.com.au/ |
+| -------------- | ---------- |
+| *Jobs* | |
+| *Location* | Greenwich NSW 2065 |
+| Description | Built to revolutionise the way people with disability find, hire and manage support workers. |
+| Known Contacts | |
+
+## Appen
+
+| *Website* |  https://appen.com/ |
+| -------------- | ---------- |
+| *Jobs* | https://appen.com/careers |
+| *Location* | Chatswood |
+| Description | A range of AI, ML consulting services |
+| Known Contacts | |
+
+## Volt Bank
+
+| *Website* | https://www.voltbank.com.au/about-us |
+| -------------- | ---------- |
+| *Jobs* | https://www.voltbank.com.au/about-us |
+| *Location* | North Sydney |
+| Description | Fintech - a fair and honest bank through innovation |
+| Known Contacts | https://www.voltbank.com.au/meet-the-team |
+
 
 # Big tech
 
